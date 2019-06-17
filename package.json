@@ -1,0 +1,25 @@
+{
+  "name": "links",
+  "version": "0.0.3",
+  "description": "Small lambda function to redirect links for GrifoEditorial content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grifoeditorial/links.git"
+  },
+  "keywords": [
+    "node",
+    "http",
+    "redirect",
+    "url-shortener"
+  ],
+  "author": "Thiago Luiz Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grifoeditorial/links/issues"
+  },
+  "homepage": "https://github.com/grifoeditorial/links#readme"
+}
