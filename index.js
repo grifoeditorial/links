@@ -8,6 +8,7 @@ const urls = {
     "https://grifoeditorial.com/2016/06/21/genesys-faq-perguntas-mais-frequentes/",
   faq:
     "https://grifoeditorial.com/2016/06/21/genesys-faq-perguntas-mais-frequentes/",
+  "o-que-e-rpg": "https://genesys-srd.grifo.now.sh/1.introducao#o-que---rpg",
 };
 
 export default (req, res) => {
